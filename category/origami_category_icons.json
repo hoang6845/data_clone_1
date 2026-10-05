@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "icons": {
+    "origami_all": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_all.webp",
+    "origami_new": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_new.webp",
+    "origami_weapons": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_weapons.webp",
+    "origami_halloween": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_halloween.webp",
+    "origami_christmas": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_christmas.webp",
+    "origami_airplanes": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_airplanes.webp",
+    "origami_animal": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_animal.webp",
+    "origami_dinosaur": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_dinosaur.webp",
+    "origami_events": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_events.webp",
+    "origami_clothes": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_clothes.webp",
+    "origami_flower": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_flower.webp",
+    "origami_fruit": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_fruit.webp",
+    "origami_furniture": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_furniture.webp",
+    "origami_birds": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_birds.webp",
+    "origami_insects": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_insects.webp",
+    "origami_vehicle": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_vehicle.webp",
+    "origami_boats": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_boats.webp",
+    "origami_marine_animals": "https://raw.githubusercontent.com/hoang6845/data_clone_1/main/category/origami_marine_animals.webp"
+  }
+}
